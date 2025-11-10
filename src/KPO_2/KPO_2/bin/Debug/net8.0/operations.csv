@@ -1,0 +1,3 @@
+id,type,accountId,amount,date,categoryId,description
+77116144-37ed-48ae-add8-e331e544cb06,Income,0dfbe872-a7a5-4cec-96a2-1118bec95fdd,4563,30.11.2000 0:00:00,0dfbe872-a7a5-4cec-96a2-1118bec95fdd,sasad
+77c30ec8-2f55-40f4-baa8-b77688e0792c,Income,23386b4a-d9bc-437c-a0dc-1be6aa7f9629,2345,31.12.2000 0:00:00,23386b4a-d9bc-437c-a0dc-1be6aa7f9629,asdwqer
